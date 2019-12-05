@@ -1,0 +1,14 @@
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\bin\Debug\netcoreapp2.1\GenericController.deps.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\bin\Debug\netcoreapp2.1\GenericController.runtimeconfig.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\bin\Debug\netcoreapp2.1\GenericController.runtimeconfig.dev.json
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\bin\Debug\netcoreapp2.1\GenericController.dll
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.csprojAssemblyReference.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.RazorAssemblyInfo.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.RazorAssemblyInfo.cs
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.AssemblyInfoInputs.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.AssemblyInfo.cs
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.RazorTargetAssemblyInfo.cache
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\bin\Debug\netcoreapp2.1\GenericController.pdb
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.dll
+C:\Users\Farhad\Desktop\Projects\DotNetDocs\GenericController\GenericController\obj\Debug\netcoreapp2.1\GenericController.pdb
