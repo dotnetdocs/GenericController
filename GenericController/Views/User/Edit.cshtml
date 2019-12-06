@@ -1,0 +1,19 @@
+﻿@model Person
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Edit</h2>
+<hr />
+<div class="row col-md-6">
+    <form asp-antiforgery="true" method="post" asp-action="Edit" asp-controller="User">
+        <input asp-for="Id" type="hidden" />
+        <div class="form-group">
+            <label asp-for="Username"></label>
+            <input class="form-control" asp-for="Username" />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <a asp-action="Index" role="button" class="btn btn-default">Back</a>
+    </form>
+</div>
+

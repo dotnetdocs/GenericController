@@ -1,0 +1,16 @@
+﻿@model Person
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Delete</h2>
+<hr />
+<div class="row col-md-6">
+    <form asp-antiforgery="true" method="post" asp-action="Delete" asp-controller="User">
+        <input asp-for="Id" type="hidden" />
+        <p>Are you sure you want to delete the "@Model.Username" ?</p>
+        <button type="submit" class="btn btn-danger">Yes</button>
+        <a asp-action="Index" class="btn btn-default">No</a>
+    </form>
+</div>
+

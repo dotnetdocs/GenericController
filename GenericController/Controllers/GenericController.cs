@@ -62,7 +62,7 @@ namespace GenericController.Controllers
         public async Task<IActionResult> Delete(TEntity entity, CancellationToken cancellationToken)
         {
             await _repository.DeleteAsync(entity, cancellationToken);
-            return View(nameof(Index));
+            return RedirectToAction(nameof(Index));
         }
     }
 }

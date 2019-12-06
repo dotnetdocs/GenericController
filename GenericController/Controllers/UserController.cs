@@ -14,5 +14,6 @@ namespace GenericController.Controllers
             : base(personRepository)
         {
         }
+
     }
 }
